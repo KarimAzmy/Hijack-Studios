@@ -1,0 +1,145 @@
+::-moz-selection {
+    background: #a7a7a7;
+}
+
+::selection {
+    background: #a7a7a7;
+}
+
+.btn-transparent:hover, .btn-transparent:focus {
+    background-color: #a7a7a7;
+}
+
+.border:before {
+    background-color: #a7a7a7;
+}
+
+a:focus, a:hover {
+    color: #a7a7a7;
+}
+
+.btn-main:hover {
+    background: #a7a7a7;
+}
+
+.btn-main {
+    background: #A7A7A7;
+    color:#fff;
+}
+
+.sk-cube-grid .sk-cube {
+    background-color: #a7a7a7;
+}
+
+.title h2 span {
+    color: #a7a7a7;
+}
+
+.header-bradcrumb a:hover {
+    color: #a7a7a7;
+}
+
+.navbar-toggle.mixitup-control-active span {
+    background: #a7a7a7;
+}
+
+.navigation .navigation-menu li.active a {
+    color: #a7a7a7;
+    border-top: 2px solid #a7a7a7;
+}
+
+.navigation {
+    box-shadow: 0px 0px 10px 0px rgba(99, 211, 212, 0.25);
+}
+
+.navigation .navigation-menu li a:hover, .navigation .navigation-menu li a:focus {
+    color: #a7a7a7;
+}
+
+.hero-area .block .video-button {
+    color: #a7a7a7;
+}
+
+.hero-area .block p span {
+    color: #a7a7a7;
+}
+
+.about .block:hover {
+    border-bottom: 3px solid #a7a7a7;
+}
+
+.about .block .icon-box i {
+    color: #a7a7a7;
+}
+
+.about .block:hover .icon-box, .about .block:hover .icon-box i {
+    border-color: #a7a7a7;
+}
+
+.about-2 .content-block .media i {
+    color: #a7a7a7;
+}
+
+.contact-form input:hover,
+.contact-form textarea:hover,
+#contact-submit:hover {
+    border: 1px solid #a7a7a7;
+}
+
+#contact-submit {
+    background: #a7a7a7;
+}
+
+.service-block {
+    box-shadow: 0 0 35px 0 rgba(0, 0, 0, 0.25), 5px 5px 0px #a7a7a7;
+}
+
+.service-block .service-icon {
+    color: #a7a7a7;
+}
+
+.member-photo .mask {
+    background-color: rgba(87, 203, 204, 0.7);
+}
+
+.price-title h3 {
+    color: #a7a7a7;
+}
+
+.price-title p span {
+    color: #a7a7a7;
+}
+
+.price-title .value {
+    color: #a7a7a7;
+}
+
+.portfolio-filter button.mixitup-control-active {
+    border: 1px solid #a7a7a7;
+    color: #a7a7a7;
+}
+
+.portfolio-block:before {
+    background: #a7a7a7;
+}
+
+.portfolio-block .caption .search-icon i:hover {
+    color: #a7a7a7;
+}
+
+.member-photo .mask ul li a:hover {
+    color: #a7a7a7;
+}
+
+.counters-item i {
+    color: #a7a7a7;
+}
+
+.owl-controls .owl-page.active span,
+.owl-controls .owl-page:hover span {
+    background-color: #a7a7a7;
+}
+
+.social-icon ul li:hover a {
+    background-color: #a7a7a7;
+}
